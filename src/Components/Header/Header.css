@@ -1,0 +1,33 @@
+.mainHeader {
+    height: 100px;
+    margin: 0 auto 0 auto;
+    background-color: yellow;
+    padding: 0 45px;
+    background-color:yellow;
+    display: flex;
+    align-content: center;
+
+}
+
+.leftHeader {
+    display: flex;
+    margin-top:5px;
+}
+
+.leftHeader .leftHeaderText {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end
+}
+.navtext{
+    color: black;
+}
+.navtext1{
+    color: black;
+}
+.MainContent{
+    max-width: 1080px;
+    margin:0 auto;
+    background-color: white;
+    padding-top: 0px;
+}

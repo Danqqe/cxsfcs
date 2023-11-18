@@ -1,0 +1,95 @@
+.MainContent{
+    max-width: 1080px;
+    margin:0 auto;
+    background-color: white;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    margin-top:50px ;
+    margin-left: 10px;
+}
+.glavv{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: 100px;
+}
+.yourr{
+    margin-right: 100px;
+    justify-content: center;
+}
+.youu{
+    height: 350px;
+    width: 400px;
+    display: flex;
+    align-items: flex-end
+
+}
+.you.card1{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: flex-end;
+}
+.textoftext{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.textoftext1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    font-size: large;
+}
+.youuu.card{
+    display: flex;
+}
+.container1123{
+    display: flex;
+    justify-content: center
+}
+.roar{
+    margin-bottom:55px ;
+}
+.img123{
+    float: right;
+    width: 80px;
+    height: 80px;
+}
+.telegram1{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 50px;
+}
+.cardsfloat{
+    margin-top: 15px;
+    
+}
+.textcards{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+.Komment{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+.button1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:flex ;
+    float:left ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}

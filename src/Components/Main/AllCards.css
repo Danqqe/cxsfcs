@@ -1,0 +1,46 @@
+.textofglav{
+    color: black;
+    display:flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    margin-top:50px ;
+    margin-left: 10px;
+}
+.you{
+    display: flex;
+    align-items: flex-end
+}
+.glav{
+    float: left;
+    margin-right: 100px;
+    position: relative;
+}
+.your{
+    margin-right: 100px;
+    justify-content: center;
+}
+.group{
+    margin-top: 25px;
+}
+.text123{
+    margin-top: 25px;
+}
+.MainContent{
+    max-width: 1080px;
+    margin:0 auto;
+    background-color: white;
+}
+.img2{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-top: 55px;
+    float: left;
+    margin-left: 60px;
+}
+
+ 

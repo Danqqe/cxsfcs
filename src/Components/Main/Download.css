@@ -1,0 +1,29 @@
+.telegram{
+    width: 75px;
+    height: 75px;
+}
+.comment{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    position: sticky;
+}
+.edit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.add{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.save{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pice{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
